@@ -1,3 +1,7 @@
+<img width="1472" height="2180" alt="image" src="https://github.com/user-attachments/assets/9d202176-e71f-4fd2-a190-b9429b6c1d6c" />
+
+
+
 # Incident Report
 
 **Case Reference:** GF-INC-2026-0704  
