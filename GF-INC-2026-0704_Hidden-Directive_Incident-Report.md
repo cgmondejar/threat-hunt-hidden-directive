@@ -1,11 +1,11 @@
 # Incident Report
 
-**Case Reference:** GF-INC-2026-0704
-**Classification:** Confidential — Internal Distribution Only
-**Report Status:** Final
-**Report Version:** 1.0
-**Analyst:** Chris Mondejar
-**Date of Report (UTC):** 2026-07-23
+**Case Reference:** GF-INC-2026-0704  
+**Classification:** Confidential — Internal Distribution Only  
+**Report Status:** Final  
+**Report Version:** 1.0  
+**Analyst:** Chris Mondejar  
+**Date of Report (UTC):** 2026-07-23  
 
 ---
 
