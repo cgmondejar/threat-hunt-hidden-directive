@@ -1,3 +1,6 @@
+<img width="1472" height="2180" alt="image" src="https://github.com/user-attachments/assets/9d202176-e71f-4fd2-a190-b9429b6c1d6c" />
+
+
 # threat-hunt-hidden-directive
 
 > A full incident reconstruction from real cyber range telemetry — conducted on the LOG(N) Pacific Cyber Range by SancLogic.
